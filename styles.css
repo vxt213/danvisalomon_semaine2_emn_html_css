@@ -11,7 +11,7 @@ body {
 
 /* ✅ Style de l'en-tête */
 header {
-    background-color: #333;
+    background-color: #480b0b;
     color: white;
     padding: 20px;
     text-align: center;
@@ -39,7 +39,7 @@ section {
     margin: auto;
     padding: 20px;
     background: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(175, 14, 14, 0.1);
     border-radius: 10px;
     margin-bottom: 20px;
 }
@@ -67,7 +67,7 @@ article a {
     display: inline-block;
     margin-top: 10px;
     padding: 8px 12px;
-    background: #007BFF;
+    background: #01080f;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -79,7 +79,7 @@ article a:hover {
 
 /* ✅ Style du pied de page */
 footer {
-    background-color: #333;
+    background-color: #2c0303;
     color: white;
     text-align: center;
     padding: 15px;
